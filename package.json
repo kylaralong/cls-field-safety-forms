@@ -1,0 +1,9 @@
+{
+  "name": "cls-safety-forms-master",
+  "version": "4.3.0",
+  "private": true,
+  "dependencies": {
+    "@netlify/blobs": "^9.1.2",
+    "pdf-lib": "^1.17.1"
+  }
+}
